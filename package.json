@@ -1,0 +1,23 @@
+{
+  "name": "terraform_viz",
+  "version": "0.0.1",
+  "description": "Terraform Infrastructure Visualizer",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/morningsend/terraform_viz.git"
+  },
+  "keywords": [
+    "terraform",
+    "aws"
+  ],
+  "author": "Zaiyang Li",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/morningsend/terraform_viz/issues"
+  },
+  "homepage": "https://github.com/morningsend/terraform_viz#readme"
+}
